@@ -1,0 +1,23 @@
+{
+  "name": "react-native-point-activityindicator",
+  "version": "0.1.1",
+  "description": "a activityindicator with point jump effect in react native",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanshuushi/react-native-point-activityindicator.git"
+  },
+  "keywords": [
+    "f19890522"
+  ],
+  "author": {
+    "name": "hanshuushi",
+    "email": "hanshuushi@icloud.com",
+    "url": "https://github.com/hanshuushi"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanshuushi/react-native-point-activityindicator/issues"
+  },
+  "homepage": "https://github.com/hanshuushi/react-native-point-activityindicator#readme"
+}
